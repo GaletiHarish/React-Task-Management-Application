@@ -14,10 +14,10 @@ This project demonstrates the development of a React application for managing ta
  4. React Router for navigation.
  5. Form validation for task data
 # Prerequisites
-#  Node.js and npm installed
-# Familiarity with React and JavaScript
-# Basic understanding of CSS and responsive design
-# Getting Started ;
+  Node.js and npm installed
+  Familiarity with React and JavaScript
+  Basic understanding of CSS and responsive design
+  Getting Started ;
 Install dependencies using npm install
 Start the development server using npm start
 Open the application in your browser at http://localhost:3000
