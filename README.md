@@ -11,7 +11,7 @@ This project demonstrates the development of a React application for managing ta
  1. Create, edit, and delete tasks
  2. Mark tasks as done or undone  Responsive design for different screen sizes
  3. Tailwind CSS for styling
- 4. React Router for navigation
+ 4. React Router for navigation.
  5. Form validation for task data
 # Prerequisites
 #  Node.js and npm installed
